@@ -33,6 +33,8 @@ A experiência em atendimento VIP, infraestrutura de videoconferência (Cisco, P
 - GitHub
 - GitHub Desktop
 
+---
+
 ### 📫 Onde me encontrar
 
 * 💼 **LinkedIn:** [(www.linkedin.com/in/alexandred-garcia)](www.linkedin.com/in/alexandred-garcia)
