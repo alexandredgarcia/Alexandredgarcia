@@ -1,4 +1,5 @@
-# Olá, eu sou o Alexandre Dias Garcia 👋
+# Olá, mundo! 🌎
+Eu sou o Alexandre Dias Garcia 👋
 
 ### 🚀 Do Suporte de TI & Setor Financeiro para o Desenvolvimento Python
 
