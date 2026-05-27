@@ -38,5 +38,5 @@ A experiência em atendimento VIP, infraestrutura de videoconferência (Cisco, P
 
 ### 📫 Onde me encontrar
 
-* 💼 **LinkedIn:** [https:www.linkedin.com/in/alexandred-garcia](https://linkedin.com)
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/alexandred-garcia](https://linkedin.com)
 * 📧 **E-mail:** [alexandredgarcia23@gmail.com](mailto:alexandredgarcia23@gmail.com)
