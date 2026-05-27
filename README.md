@@ -1,5 +1,5 @@
 # Olá, mundo! 🌎
-Eu sou o Alexandre Dias Garcia 👋
+***Eu sou o Alexandre Dias Garcia*** 👋
 
 ### 🚀 Do Suporte de TI & Setor Financeiro para o Desenvolvimento Python
 
